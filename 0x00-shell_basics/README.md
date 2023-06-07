@@ -6,4 +6,5 @@ ls -la : show all content including hidden files starting with .
 ls -lsn : long format , with user geoup ID num , and hidden files
 mkdir : create directory
 mv from to : move fils fom path to another
-rm : to delete file 
+rm : to delete file
+rmdir: to remove empty directorey
